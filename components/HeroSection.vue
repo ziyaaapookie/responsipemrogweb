@@ -76,7 +76,9 @@
         </div>
 
         <div class="home_img">
-          <img src="https://i.ibb.co.com/LR5T5fk/523-5237005-developing-full-stack-developer-png-transparent-png-removebg-preview.png" alt="">
+          <!-- <img src="https://i.ibb.co.com/LR5T5fk/523-5237005-developing-full-stack-developer-png-transparent-png-removebg-preview.png" alt=""> -->
+           <img src="https://i.ibb.co.com/zmy6Z6D/ilovejogja.png" alt="">
+            <!-- <img src="https://i.ibb.co.com/TwmCJB0/jogjazidan.png" alt=""> -->
         </div>
       </section>
 
